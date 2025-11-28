@@ -26,6 +26,7 @@ void StageScene::Update() {
 }
 
 void StageScene::Draw() {
+
 	Novice::ScreenPrintf(0, 0, "Scene: Stage");
 
 	// 弾
